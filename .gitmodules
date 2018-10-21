@@ -1,0 +1,100 @@
+[submodule "castle_masonry"]
+	path = castle_masonry
+	url = https://github.com/minetest-mods/castle_masonry.git
+	branch = master
+[submodule "castle_tapestries"]
+	path = castle_tapestries
+	url = https://github.com/minetest-mods/castle_tapestries.git
+	branch = master
+[submodule "character_creator"]
+	path = character_creator
+	url = https://github.com/minetest-mods/character_creator.git
+	branch = master
+[submodule "chat2"]
+	path = chat2
+	url = https://github.com/minetest-mods/chat2.git
+	branch = master
+[submodule "currency"]
+	path = currency
+	url = https://github.com/minetest-mods/currency.git
+	branch = master
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/shacknetisp/elevator.git
+	branch = master
+[submodule "jukebox"]
+	path = jukebox
+	url = https://github.com/minetest-mods/jukebox.git
+	branch = master
+[submodule "lightning"]
+	path = lightning
+	url = https://github.com/minetest-mods/lightning.git
+	branch = master
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/minetest-mods/maptools.git
+	branch = master
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+	branch = master
+[submodule "MoreMesecons"]
+	path = MoreMesecons
+	url = https://github.com/minetest-mods/MoreMesecons.git
+	branch = master
+[submodule "minetest_mod_weather"]
+	path = minetest_mod_weather
+	url = https://github.com/theFox6/minetest_mod_weather.git
+	branch = master
+[submodule "mob-engine"]
+	path = mob-engine
+	url = https://github.com/minetest-mods/mob-engine.git
+	branch = master
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+	branch = master
+[submodule "mt-firearms"]
+	path = mt-firearms
+	url = https://github.com/kaeza/mt-firearms.git
+	branch = master
+[submodule "nether"]
+	path = nether
+	url = https://github.com/minetest-mods/nether.git
+	branch = master
+[submodule "orbs_of_time"]
+	path = orbs_of_time
+	url = https://github.com/minetest-mods/orbs_of_time.git
+	branch = master
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://github.com/minetest-mods/pipeworks.git
+	branch = master
+[submodule "privilegeareas"]
+	path = privilegeareas
+	url = https://github.com/minetest-mods/privilegeareas.git
+	branch = master
+[submodule "stargate"]
+	path = stargate
+	url = https://github.com/minetest-mods/stargate.git
+	branch = master
+[submodule "technic"]
+	path = technic
+	url = https://github.com/minetest-mods/technic.git
+	branch = master
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://github.com/minetest-mods/unifieddyes.git
+	branch = master
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+	branch = master
+[submodule "vehicles"]
+	path = vehicles
+	url = https://github.com/D00Med/vehicles
+	branch = master
+[submodule "ExplorerTools"]
+	path = ExplorerTools
+	url = https://github.com/Kilarin/ExplorerTools.git
+	branch = master
